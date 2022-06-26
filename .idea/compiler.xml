@@ -9,5 +9,8 @@
         <module name="Animal-Hospital-Registration-System" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Animal-Hospital-Registration-System" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
